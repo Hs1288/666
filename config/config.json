@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x749484701610f8891fbEa1EAc5C257A2c98107c3",
+  "SCAN_LINK": "https://polygonscan.com/token/0x749484701610f8891fbEa1EAc5C257A2c98107c3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "XIAONIUNIU",
+  "SYMBOL": "XIAONIUNIU",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/xiaoniuniu",
+  "SHOW_BACKGROUND": true
+}
